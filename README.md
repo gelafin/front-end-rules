@@ -19,7 +19,10 @@ helps accessibility/SEO
 
 ## CSS
 ### Setup
-#### 1. set baseline font-size in `px`
+#### 1. `box-sizing: border-box`
+just in case Flexbox isn't enough and some elements have to have layout specified
+
+#### 2. set baseline font-size in `px`
 ```css
 html, body {font-size: 20px}
 ```
