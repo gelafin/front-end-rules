@@ -44,6 +44,13 @@ css tables
 flexbox
 Except for some basic required concepts, we are going to skip all of this and go straight to flexbox. After many stumbles, flexbox finally brings sanity to the much needed world of layout in CSS.
 
+#### `position: relative` is rarely useful
+it is only to dislocate one specific thing without moving its siblings
+that's it
+
+#### `position: absolute` is never useful
+there's always a better way
+
 #### set all font-sizes using `rem`
 
 #### never use `margin top:`; always use `margin bottom:`
