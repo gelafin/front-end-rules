@@ -15,6 +15,14 @@ html, body {font-size: 20px}
 ```
 has to be on both html and body for some reason
 
+#### use margin for all spacing
+
+#### optionally use padding 
+only to make an element bigger or make breathing room with a border
+
+#### optionally use width and height last
+but it is explicit, so it's bad for accessibility and Flexbox
+
 ### Layout
 #### set all font-sizes using `rem`
 
