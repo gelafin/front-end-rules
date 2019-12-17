@@ -27,6 +27,19 @@ only to make an element bigger or make breathing room with a border
 but it is explicit, so it's bad for accessibility and Flexbox
 
 ### Layout
+
+#### summary
+from W3C on edX:
+During its short lifetime, CSS has often played "catch up" especially with respect to layout.  Here is a short list of techniques and CSS properties used historically for layout:
+
+tables and "slicing"
+absolute positioning
+floats and clear
+css columns
+css tables
+flexbox
+Except for some basic required concepts, we are going to skip all of this and go straight to flexbox. After many stumbles, flexbox finally brings sanity to the much needed world of layout in CSS.
+
 #### set all font-sizes using `rem`
 
 #### never use `margin top:`; always use `margin bottom:`
