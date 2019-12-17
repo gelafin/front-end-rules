@@ -6,6 +6,9 @@ collection of best practices culled from all across the web
 #### `img` prefers to have width set in HTML, not in CSS
 only for images that don't have any other style rules
 this is to avoid clutter in the CSS and ease maintenance for images 
+#### use as many specialized elements as often as possible
+if it can be considered a table, make it one
+helps accessibility/SEO
 
 ## CSS
 ### Setup
