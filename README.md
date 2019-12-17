@@ -7,6 +7,9 @@ collection of best practices culled from all across the web
 only for images that don't have any other style rules
 this is to avoid clutter in the CSS and ease maintenance for images 
 
+#### `img` tag should not be used for decorative images
+use CSS background-image instead, according to W3
+
 #### `a` prefers text not `img` for links
 SEO thing
 
