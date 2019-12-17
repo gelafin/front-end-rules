@@ -46,7 +46,7 @@ Except for some basic required concepts, we are going to skip all of this and go
 
 #### `position: relative` is rarely useful
 it is only to dislocate one specific thing without moving its siblings
-that's it
+or `z-index`, because z-index doesn't work on default position elements
 
 #### `position: absolute` is never useful
 there's always a better way
