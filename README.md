@@ -9,9 +9,9 @@ this is to avoid clutter in the CSS and ease maintenance for images
 
 ## CSS
 ### Setup
-#### 1. set baseline font-size
+#### 1. set baseline font-size in `px`
 ```css
-html, body {font-size: 20}
+html, body {font-size: 20px}
 ```
 has to be on both html and body for some reason
 
