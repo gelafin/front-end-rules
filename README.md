@@ -28,6 +28,9 @@ html, body {font-size: 20px}
 ```
 has to be on both html and body for some reason
 
+#### 3. set `flex-flow: <flex-direction> <flex-wrap>;`
+usually flex-flow: row wrap
+
 #### use margin for all spacing
 
 #### optionally use padding 
