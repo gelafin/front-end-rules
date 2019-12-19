@@ -1,6 +1,12 @@
 # front-end-rules
 collection of best practices culled from all across the web
 
+## Setup
+### choose HTML tags
+### make flexbox container
+### add placeholder CSS to help visualize
+### add flexbox CSS
+
 ## HTML
 #### set `html lang`, not `meta lang`
 #### `img` prefers to have min- or `max-width` set in HTML, not in CSS
