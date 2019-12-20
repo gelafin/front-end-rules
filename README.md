@@ -3,6 +3,7 @@ collection of best practices culled from all across the web
 
 ## Setup
 ### choose HTML tags
+### add browser styling reset template
 ### make flexbox container
 ### add placeholder CSS to help visualize
 ### add flexbox CSS
